@@ -4,10 +4,10 @@ DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件：菲比啾比
 
 ## 安装（先看这里）
 
-1. **地址：https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance**：
+1. **地址：**https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance
 2. **丢给 DSH 安装**：对它说：
 
-   > 「安装这个 DSH 插件 https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance」
+   > 安装这个 DSH 插件 https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance
 
    DSH 会自动安装，然后我们重新启动dsh；**没有 AI 助手的话**，用文末的 [手动安装命令](#手动安装命令)。
 
