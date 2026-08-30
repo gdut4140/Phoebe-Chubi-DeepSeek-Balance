@@ -1,10 +1,10 @@
 # 菲比啾比 DeepSeek 余额挂件（Phoebe Chubi Balance Widget）
-
+![alt text](assets/feibimd.png)
 DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件：菲比啾比 + DeepSeek API 余额，每次打开界面自动启用，支持拖拽、点击音效与米黄卡其主题。
 
 ## 安装（先看这里）
 
-1. **地址：**https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance
+1. **地址**：https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance
 2. **丢给 DSH 安装**：对它说：
 
    > 安装这个 DSH 插件 https://github.com/gdut4140/Phoebe-Chubi-DeepSeek-Balance
